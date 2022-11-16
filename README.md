@@ -96,4 +96,4 @@ onderstaand stappenplan gebruiken:
     - 2 talen: `They speak [language] and [language]`
     - 3 talen: `They speak [language], [language] and [language]`
     - etc.
-- Make it look nice! 😍
+- Make it look nice! 😍# JavaScript-Country-part-2
